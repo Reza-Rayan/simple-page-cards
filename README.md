@@ -5,7 +5,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshot
 
-[] (./src/assets/View.jpg)
+(./src/assets/View.jpg)
 
 
 ### Links
