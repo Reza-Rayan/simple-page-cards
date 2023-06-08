@@ -5,11 +5,11 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshot
 
-[](./src/assets/View.jpg)
+[] (./src/assets/View.jpg)
 
 
 ### Links
-- Live Site URL:(https://transcendent-dragon-6f77cc.netlify.app/)
+- Live Site URL:(https://amazing-cendol-1a2614.netlify.app)
 
 ### Built with
 
