@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+     background-color: #fafafa;
+}
+
+.backgr-supr {
+     background-image: url('./assets/icon-supervisor.svg');
+     background-repeat: no-repeat;
+     background-position: 90% 80%;
+}
+
+.backgr-team {
+     background-image: url('./assets/icon-team-builder.svg');
+     background-repeat: no-repeat;
+     background-position: 90% 80%;
+}
+
+.backgr-karma {
+     background-image: url('./assets/icon-karma.svg');
+     background-repeat: no-repeat;
+     background-position: 90% 80%;
+}
+
+.backgr-calc {
+     background-image: url('./assets/iconCalculator.svg');
+     background-repeat: no-repeat;
+     background-position: 90% 80%;
+}
+
+.card-styles {
+     border-radius: 8px;
+}
+@media (max-width:1276px) {
+     .tblt-size{
+          display: block !important     ;
+     }
+}

@@ -1,0 +1,24 @@
+{
+     "TeamBuilder":{
+          "title":"Team Builder",
+          "content":"Scans our talent network to create the optimal team for your project",
+          "image":"assets/icon-team-builder.svg"
+     },
+
+     "Karma":{
+          "title":"Karma",
+          "content":"Regularly evaluates our talent to ensure quality",
+          "image":"assets/icon-karma.svg"
+     },
+     "Calculator":{
+          "title":"Calculator",
+          "content":"Uses data from past projects to provide better delivery estimates",
+          "image":"assets/iconCalculator.svg"
+     },
+     "Supervisor":{
+          "title":"Supervisor",
+          "content":"Monitors activity to identify project roadblocks",
+          "image":"assets/icon-supervisor.svg"
+     }
+
+}
