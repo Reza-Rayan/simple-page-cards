@@ -4,7 +4,7 @@ const Card = ({ extraClasses, title, content }) => {
   return (
     <div
       className={`${extraClasses} 
-    shadow-xl mb-10 card-styles sm:mb-card-styles px-8 py-5 relative min-w-[90%] max-w-[90%] mx-auto
+    shadow-xl mb-10 card-styles  sm:mb-card-styles px-8 py-5 relative min-w-[90%] max-w-[90%] mx-auto
     hover:shadow-2xl transition-all`}
     >
       <h3 className="font-semibold text-[#4D4F62]  text-[20px]">{title}</h3>
