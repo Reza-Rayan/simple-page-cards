@@ -30,8 +30,8 @@ body {
      background-position: 90% 80%;
 }
 
-.card-styles {
-       border-radius: 8px / 5px;
+.card-styles::pseudo-element {
+       border-radius: 8px;
 }
 @media (max-width:1276px) {
      .tblt-size{
