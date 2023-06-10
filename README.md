@@ -22,7 +22,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ## Author
 
 - Linkedin - [Linkedin Page](https://www.linkedin.com/in/reza-%E2%80%8Chosseinzade-85a513236)
-- Telegram - [Telegram Message](https://telegram.me/)
+- Telegram - [Telegram Message](https://telegram.me/frontendprog)
 - Frontend Mentor -[Mentor Website](https://devedoping.ir/)
 
 
