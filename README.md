@@ -21,8 +21,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Author
 
-- Linkedin - (https://www.linkedin.com/in/reza-%E2%80%8Chosseinzade-85a513236)
-- Telegram - (t.me/Rezahz99)
-- Frontend Mentor -(https://devedoping.ir/)
+- Linkedin - [Linkedin Page](https://www.linkedin.com/in/reza-%E2%80%8Chosseinzade-85a513236)
+- Telegram - [Telegram Message](https://telegram.me/)
+- Frontend Mentor -[Mentor Website](https://devedoping.ir/)
 
 
